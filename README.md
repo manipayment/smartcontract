@@ -4,7 +4,7 @@
 Token Details
 
 Name MANI
-SymbolMANI
+Symbol MANI
 Total Supply 222.200.000
 
 
